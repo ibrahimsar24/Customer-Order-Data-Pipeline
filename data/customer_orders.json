@@ -1,0 +1,44 @@
+[
+    {
+        "order_id": "ORD001",
+        "customer": {
+            "id": "C001",
+            "name": "Alice",
+            "location": "Dubai"
+        },
+        "items": [
+            {
+                "item_id": "I001",
+                "product": "Laptop",
+                "price": 1200,
+                "quantity": 1
+            },
+            {
+                "item_id": "I002",
+                "product": "Mouse",
+                "price": 25,
+                "quantity": 2
+            }
+        ],
+        "order_date": "2025-05-15",
+        "status": "Shipped"
+    },
+    {
+        "order_id": "ORD002",
+        "customer": {
+            "id": "C002",
+            "name": "Bob",
+            "location": "Abu Dhabi"
+        },
+        "items": [
+            {
+                "item_id": "I003",
+                "product": "Monitor",
+                "price": 300,
+                "quantity": 1
+            }
+        ],
+        "order_date": "2025-05-14",
+        "status": "Pending"
+    }
+]

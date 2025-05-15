@@ -1,0 +1,4 @@
+order_id,customer_id,customer_name,location,item_id,product,price,quantity,total_price,order_date,status
+ORD001,C001,Alice,Dubai,I001,Laptop,1200,1,1200,2025-05-15,Shipped
+ORD001,C001,Alice,Dubai,I002,Mouse,25,2,50,2025-05-15,Shipped
+ORD002,C002,Bob,Abu Dhabi,I003,Monitor,300,1,300,2025-05-14,Pending
